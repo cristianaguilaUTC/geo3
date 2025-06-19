@@ -1,7 +1,7 @@
 @extends('layout.app')
 @section ('content')
    
-    <h1 style="margin-top: 70px; margin-botton: 70px; text-align:center;">Listado de Predios</h1>
+    <h1 style="margin-top: 70px; margin-botton: 70px; text-align:center;">Lista de Predios</h1>
      <br>
      <br>
      
