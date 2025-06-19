@@ -76,7 +76,7 @@
         </div>
         <div class="col-md-4 text-center">
             <h4><b>Desarrollado por:</b></h4>
-            <h5>Cristian Aguila</h5>
+            <h5>Santiago Aguila</h5>
         </div>
         <div class="col-md-4 text-center">
             <h6>Latacunga-2025</h6>
